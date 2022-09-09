@@ -1,0 +1,28 @@
+.cart{
+    display: flex;
+
+
+
+}
+.cart img{
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    align-items: center;
+}
+.phone-desc{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.cartbox{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-items: start;
+    flex: 1;
+    line-height: 0;
+    width: 100%;
+    
+}
